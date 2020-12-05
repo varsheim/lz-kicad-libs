@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP YJL2301D
+D Transistor: P-MOSFET; TRENCH POWER LV; unipolar; -15V; -3A; 1W
+F https://www.tme.eu/Document/8d06144698d0809a9982530c2361ab7b/YJL2301D.pdf
+$ENDCMP
+#
+#End Doc Library

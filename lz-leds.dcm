@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM-B2020RGBA-HG
+D RGB 615~630nmRed,515~535nmGreen,465~480nmBlue 2020 Light Emitting Diodes (LED) RoHS
+F https://datasheet.lcsc.com/szlcsc/1810231210_Foshan-NationStar-Optoelectronics-FM-B2020RGBA-HG_C108793.pdf
+$ENDCMP
+#
+#End Doc Library

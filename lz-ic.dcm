@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74VHC595MTCX
+D Counter Shift Registers 8-Bit Shift Register
+F https://eu.mouser.com/datasheet/2/308/74VHC595-D-1801738.pdf
+$ENDCMP
+#
+$CMP TLC5928
+D LED driver; SSOP24; 17V; Channels: 16; 35mA; Usup: 3..5.5V
+$ENDCMP
+#
+$CMP TLC59283DBQR
+D LED Lighting Drivers 16 Channel Constant Crnt LED Driver
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59283
+$ENDCMP
+#
+#End Doc Library
