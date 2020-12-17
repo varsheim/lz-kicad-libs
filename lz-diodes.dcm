@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSS42U-RG
+D Schottky diode
+K diode Schottky
+F https://www.tme.eu/Document/f240b8ea4f39185f606f4f097db75398/TSS42U-RG.pdf
+$ENDCMP
+#
+#End Doc Library
