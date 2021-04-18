@@ -14,4 +14,19 @@ D LED Lighting Drivers 16 Channel Constant Crnt LED Driver
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59283
 $ENDCMP
 #
+$CMP TPS51397A
+D Switching Voltage Regulators 4.5-V to 24-V input, 10-A, synchronous step-down regulator 20-VQFN-HR -40 to 125
+F https://www.ti.com/lit/ds/symlink/tps51397a.pdf?ts=1618677701518&ref_url=https%253A%252F%252Fpl.mouser.com%252F
+$ENDCMP
+#
+$CMP TPS54A24RTWR
+D Switching Voltage Regulators 4.5-V to 17-V input, 10-A synchronous SWIFTG step-down converter 24-WQFN -40 to 150
+F https://www.ti.com/lit/ds/symlink/tps54a24.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fpl.mouser.com%2F&distId=26
+$ENDCMP
+#
+$CMP TPS56339
+D Switching Voltage Regulators 4.5-V to 24-V input, 3-A, synchronous step-down regulator SOT-23-6  -40 to 125
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http://www.ti.com/lit/ds/symlink/tps56339.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -6,6 +6,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP HIROSE_FH12-34S-0.5SVA
+D FFC & FPC Connectors 0.5MM 34P SMT VERT MNT SELECT GLD
+K connector
+F ~
+$ENDCMP
+#
 $CMP SAMTEC_ZF5S-24-02-T-WT-K
 F https://eu.mouser.com/datasheet/2/527/zf5s_xx_xx_x_wt_x_xx_mkt-1624732.pdf
 $ENDCMP
