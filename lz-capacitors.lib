@@ -1,0 +1,126 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 100n
+#
+DEF 100n C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "100n" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:C_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10B104KB8NNWC?qs=EvNa9vf1TdYOAZGBJN%252BGRQ%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "CL10B104KB8NNWC" 0 0 50 H I C CNN "Name"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100p
+#
+DEF 100p C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "100p" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:C_0603_1608Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10C101FB81PNC?qs=X6jEic%2FHinDTh%2FvAqbIkxg%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "CL10B104KB8NNWC" 0 0 50 H I C CNN "Name"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100u
+#
+DEF 100u C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "100u" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:CP_Elec_8x10.5" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Panasonic/EEE-1VA101UP?qs=wEytwf7f49F5atTcV%252Bo5Iw%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "EEE-1VA101UP" 0 0 50 H I C CNN "Name"
+$FPLIST
+ CP_*
+$ENDFPLIST
+DRAW
+S -60 -12 60 -27 0 1 0 F
+S -60 27 60 12 0 1 0 N
+P 2 0 1 0 -50 60 -30 60 N
+P 2 0 1 0 -40 50 -40 70 N
+X ~ 1 0 100 73 D 50 50 1 1 P
+X ~ 2 0 -100 73 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10u
+#
+DEF 10u C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "10u" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:C_1210_3225Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL32A106KLULNNE?qs=wd5RIQLrsJj8JkNm%2FTMjBQ%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "CL32A106KLULNNE" 0 0 50 H I C CNN "Name"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1u
+#
+DEF 1u C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "1u" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:C_1206_3216Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL31B105KBHNFNE?qs=h6Piwd%2FnvzlRSi1VmWERcg%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "CL31B105KBHNFNE" 0 0 50 H I C CNN "Name"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47u
+#
+DEF 47u C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "47u" 10 -80 50 H V L CNN
+F2 "Capacitor_SMD:C_1206_3216Metric" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "https://pl.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL32A106KLULNNE?qs=wd5RIQLrsJj8JkNm%2FTMjBQ%3D%3D" 0 0 50 H I C CNN "URL"
+F5 "CL31A476MQHNNWE" 0 0 50 H I C CNN "Name"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

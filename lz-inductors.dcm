@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1,8uH
+D Inductor with ferrite core, small symbol
+K inductor choke coil reactor magnetic power
+F https://www.we-online.de/katalog/datasheet/744325180.pdf
+$ENDCMP
+#
+$CMP 5,6uH
+D Inductor with ferrite core, small symbol
+K inductor choke coil reactor magnetic power
+F https://www.we-online.de/katalog/datasheet/74438356056.pdf
+$ENDCMP
+#
+$CMP L_Core_Ferrite_Small
+D Inductor with ferrite core, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100n
+D MLCC, 50VDC, X7R, 10%
+K capacitor cap
+F https://pl.mouser.com/datasheet/2/585/MLCC-1837944.pdf
+$ENDCMP
+#
+$CMP 100p
+D MLCC, 50VDC, C0G, 1%
+K capacitor cap
+F https://pl.mouser.com/datasheet/2/585/MLCC_Automotive-1837966.pdf
+$ENDCMP
+#
+$CMP 100u
+D Aluminium Electrolytic Capacitor, 35V, 20%
+K cap capacitor
+F https://pl.mouser.com/datasheet/2/315/ABA0000C1145-947633.pdf
+$ENDCMP
+#
+$CMP 10u
+D MLCC, 35VDC, X5R, 10%
+K capacitor cap
+F https://pl.mouser.com/datasheet/2/585/MLCC-1837944.pdf
+$ENDCMP
+#
+$CMP 1u
+D MLCC, 50VDC, X7R, 10%
+K capacitor cap
+F https://pl.mouser.com/datasheet/2/585/MLCC-1837944.pdf
+$ENDCMP
+#
+$CMP 47u
+D MLCC, 6,3VDC, X5R, 20%
+K capacitor cap
+F https://pl.mouser.com/datasheet/2/585/MLCC-1837944.pdf
+$ENDCMP
+#
+#End Doc Library
